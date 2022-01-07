@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create user","Correct Creation of new User","SUCCESS","2022-01-07T06:16:14.982-05:00[America/Bogota]","0.0","0.78"
+"User Register","Correct Registration of new User","SUCCESS","2022-01-07T06:16:04.197-05:00[America/Bogota]","0.0","7.82"
